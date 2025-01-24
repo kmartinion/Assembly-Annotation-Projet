@@ -28,7 +28,9 @@
 - Phylogenetic analysis of **TEs** Software **clustal-omega** and **FastTree** were used.
 
 ##  Annotation of genes with the MAKER Pipeline
-- Annotation of protein-coding sequences using **GenePredict**.
+- Perform Homology-Based Genome Annotation with **MAKER**
+- Filtering and Refining Gene Annotations used  **InterProScan** 
+- Quality Assessment of Gene Annotations Used **Busco** and **UNiprot** database
 
 ## Orthology based gene annotation QC
 - Orthology based gene annotation quality check with  **OMArk** and  **MiniProt**.
